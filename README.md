@@ -1,8 +1,8 @@
 # Prerequisites
 # ###################
-- JDK 11
+- JDK 17
 - Maven 3.9 
-- MySQL 8
+- MySQL 12
 
 # Technologies 
 - JAKARTA
